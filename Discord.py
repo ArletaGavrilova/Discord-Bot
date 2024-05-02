@@ -30,4 +30,4 @@ async def joined(ctx, member: discord.Member):
 
 
 
-bot.run("MTIzMzA3OTk4MzYyNzQ0MDE2OA.G9cKnA.PQaVLaAGa4pN0iTm1Ty7lWJi4m1bEhXqpzxUhs")
+bot.run("your bot")
